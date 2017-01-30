@@ -1,4 +1,5 @@
 How the World Wide Web works. 
+
 When you visit a web page, you activate a conversation in the internet through one of its many applications, the web. 
 The web is composed of texts, images, videos which are held in its pages or computers. When many pages belong to a same site
 or computer, it becomes a website. A web page can lead to another page on the same site, or to a completely different website.
@@ -11,4 +12,5 @@ command requester in the client computer, the browser looks for it, and sends th
 and it pops up on your screen. The web page reached will be composed not only of images, texts and more, but of links and
 hyperlinks that take you to other pages. If you click one of them, the browser again sends a message to the server, which 
 looks for and sends back what the client is looking for, and it pops up on their screen. All of this happened because of the 
-internet’s ability to connect computers, and the web across the whole wide world, through telephone lines that send simple messages back and forth.
+internet’s ability to connect computers, and the web across the whole wide world, through telephone lines that send simple
+messages back and forth.
