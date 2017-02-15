@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="portafolio">
+    <meta name="author" content="Mischka Capriles">
+    <title> Mischka Capriles- WORDS </title>
+    <link href="reset.css" type="text/css" rel="stylesheet">
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<header>
+	<h1> MischkaC- in WORDS </h1>
+    <p class=pullquote2>
+
+    <h3> Because I value them. <br/> If not, pictures, art, music </h3>
+    <p class=pullquote>
+ "This is a tiny fragment of the big, bigger picture" </p>
+ <p> <a href= "about"> -Me </a> <br/> Welcome to my brain </p>
+ <ul>
+ <li> <a href= "journalism.html"> Journalism </a> </li>
+ <li> <a href="photos.html"> Photos </a></li>
+ <li> <a href="Thoughts.html"> Thoughts </a> </li>
+ <li> <a href="likes.html"> Likes </a> </li>
+ <li> <a href="projects.hmtl"> Projects </a> </li>
+ </ul>
+ </header>
+
+  
+ <div class=container>
+
+  "No hay peor ciego que el que no quiere ver" 
+  </p>
+  <p> -Somewhere in the bible </p>
+ 
+ <div class="mmd">
+<a href="mmd/index.html">
+ <h4> <img scr="mmd.jpg" align="bottom"/> My Mothers Daughters </h4>
+  <p2> The art of living gracefully and appreciating beauty </p2> 
+</a>
+  </div>
+
+<p class=pullquote2>
+  "No hay peor ciego que el que no quiere ver" 
+  </p>
+  </div>
+ </body>
+ </html>
